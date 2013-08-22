@@ -14,3 +14,4 @@
 * **[glyphicons.com](http://glyphicons.com/)**
 * **[wrapbootstrap.com](https://wrapbootstrap.com/)**
 * **[dougireton.com](http://dougireton.com/)**
+* **[bootsnipp.com](http://bootsnipp.com/)**
