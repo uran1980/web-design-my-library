@@ -1,4 +1,4 @@
-Примеры хорошего оформления сайтов
+Примеры оформления сайтов
 ==================================
 * **[rackspace.com](http://www.rackspace.com)**
 * **[digitalocean.com](https://www.digitalocean.com/)**
